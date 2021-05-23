@@ -1,0 +1,10 @@
+type: Command
+spec:
+  cmds:
+  - cmd: ls
+    opts:
+    - opt: "a"
+    - opt: 1
+  - cmd: ls
+    opts:
+    - opt: "l"

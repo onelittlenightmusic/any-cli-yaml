@@ -1,0 +1,9 @@
+type: Option
+spec:
+  opts:
+  - opt: a
+  - opt: l
+  - opt: m
+    vals:
+    - val: test
+  - opt: "1"
